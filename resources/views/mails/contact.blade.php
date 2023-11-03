@@ -1,0 +1,1 @@
+<h2>Hello, {{$data['fromName']}} </h2>
